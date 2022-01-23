@@ -87,13 +87,13 @@ You can expect me to be active from **8 am - 6 pm EST** during a regular work we
 
 On most weekends I’m available n the mornings and afternoons for a couple of hours to help if needed until we have an established On-Call schedule. 
 
-## **1:1s**
+## 1:1s
 
 You deserve a great one on one that provides you with value and helps you grow. 
 
 Bi-weekly, 30 minutes every time. This is your guaranteed time with me. We might adjust to a different cadence up to monthly if you have additional support from other team mentors.
 
-## **Personality quirks**
+## Personality quirks
 
 - I tend to focus on things that need improvement or have the potential to be a threat because these would still be topics that we have to work on or address (at some point in time). This means that I might bring up considerations or cases where I see a missing gap even though they are not the most urgent or most likely.
 - My instinct is to provide a solution to everything and everyone. I’m working on it. If you catch me providing an answer without asking questions first, call me out!
@@ -101,6 +101,6 @@ Bi-weekly, 30 minutes every time. This is your guaranteed time with me. We might
 - When you ask, “do you have some time?” in Slack or email, please add the topic you’d like to discuss. Otherwise, I’ll think, “do you have some time for me to tell you I’m thinking of quitting.” I’ll do the same, so you don’t have to think constantly. I want to talk to you as I’m thinking of firing you.
 - I go the extra mile. I often overspend my time budget to fully understand the challenge and provide a solution that addresses the root cause when faced with challenges. This helps me to build up specialized knowledge in many areas. You’ll notice that I sometimes get extremely detailed when providing an explanation. Sometimes I lose others in these conversations. I’m working on it. Call me out to get to the point and skip the details.
 
-# Is this helpful**?**
+# Is this helpful?
 
 This page is for you, let me know if you find it helpful and if you agree with my statements and perspectives. Did you notice something I do that is not covered here, but should?
